@@ -1,0 +1,276 @@
+/* #span{
+    margin-left: 74%; 
+
+} */
+#Nav{
+    display: flex;
+    background-color: #004C9B;
+    color: white;
+
+}
+FaHandHolding{
+    rotate: 90;
+}
+#Nav h2{
+    margin-left: -69rem;
+}
+#Nav ul li {
+    list-style-type: none;
+    float: right;
+    margin-left: 6.2rem;
+    font-size: 1rem;
+}
+h1{
+    font-size: 2rem;
+    margin-top: 5rem;
+}
+FaGem{
+    font-size: 71px;
+    color: #01090A;
+    margin-top: 2rem;
+}
+
+#StartBox{
+    height:3.4rem;
+    background-color: #86b4ba;
+    width: 29rem;
+    margin-left: 25rem;
+}
+#StartBox p{
+    padding-top:0.8rem;
+    margin-top:3rem;
+    /* height:3.4rem;
+    background-color: #86b4ba;
+    width: 22rem;
+    margin-left: 29rem; */
+}
+#First{
+    
+    width:18rem;
+    background-color:#F1F1F1;
+    height:5rem;
+    border-radius:5%;
+    
+
+    margin-top:1.2rem;
+    margin-left:10.9rem; 
+
+
+}
+#First:hover{
+    
+    width:18rem;
+    background-color:#6CE6EF;
+    height:5rem;
+    border-radius:5%;
+    
+
+
+}
+#Second{
+    
+    width:18rem;
+    background-color:#F1F1F1;
+    height:5rem;
+    border-radius:5%;
+    
+
+    margin-top:1.2rem;
+    margin-left:2rem; 
+
+
+}
+#Second:hover{
+    
+    width:18rem;
+    background-color:#6CE6EF;
+    height:5rem;
+    border-radius:5%;
+    
+
+   
+
+
+}
+
+
+#Third{
+    
+    width:18rem;
+    background-color:#F1F1F1;
+    height:5rem;
+    border-radius:5%;
+    
+
+    margin-top:1.2rem;
+    margin-left:10.9rem; 
+
+
+}
+#Third:hover{
+    
+    width:18rem;
+    background-color:#6CE6EF;
+    height:5rem;
+    border-radius:5%;
+    
+
+ 
+}
+#Four{
+    
+    width:18rem;
+    background-color:#F1F1F1;
+    height:5rem;
+    border-radius:5%;
+    
+
+    margin-top:1.2rem;
+    margin-left:2rem; 
+
+
+}
+#Four:hover{
+    
+    width:18rem;
+    background-color:#6CE6EF;
+    height:5rem;
+    border-radius:5%;
+
+}
+#Fifth{
+    
+    width:18rem;
+    background-color:#F1F1F1;
+    height:5rem;
+    border-radius:5%;
+    
+
+    margin-top:1.2rem;
+    margin-left:2rem; 
+
+
+}
+#Fifth:hover{
+    
+    width:18rem;
+    background-color:#6CE6EF;
+    height:5rem;
+    border-radius:5%;
+    
+
+  
+
+}
+#threeAndfour{
+    display: flex;
+}
+#firstsec{
+    display: flex;
+    margin-top: 3rem;
+}
+#Sixth{
+    
+    width:18rem;
+    background-color:#F1F1F1;
+    height:5rem;
+    border-radius:5%;
+    
+
+    margin-top:1.2rem;
+    margin-left:2rem; 
+
+
+}
+#Sixth:hover{
+    
+    width:18rem;
+    background-color:#6CE6EF;
+    height:5rem;
+    border-radius:5%;
+
+}
+
+
+
+
+#Seventh{
+    
+    width:18rem;
+    background-color:#F1F1F1;
+    height:5rem;
+    border-radius:5%;
+    
+
+    margin-top:1.2rem;
+    margin-left:10.9rem; 
+
+
+}
+#Seventh:hover{
+    
+    width:18rem;
+    background-color:#6CE6EF;
+    height:5rem;
+    border-radius:5%;
+    
+
+    /* margin-top:1.2rem;
+    margin-left:10.9rem;  */
+}
+
+#Eighth{
+    
+    width:18rem;
+    background-color:#F1F1F1;
+    height:5rem;
+    border-radius:5%;
+    
+
+    margin-top:1.2rem;
+    margin-left:2rem; 
+
+
+}
+#Eighth:hover{
+    
+    width:18rem; 
+    background-color:#6CE6EF;
+    height:5rem;
+    border-radius:5%;
+    
+
+    /* margin-top:1.2rem;
+    margin-left:2rem;  */ 
+
+
+}
+#Ninth{
+    
+    width:18rem;
+    background-color:#F1F1F1;
+    height:5rem;
+    border-radius:5%;
+    
+
+    margin-top:1.2rem;
+    margin-left:2rem; 
+
+
+}
+
+#Ninth:hover{
+    
+    width:18rem;
+    background-color:#6CE6EF;
+    height:5rem;
+    border-radius:5%;
+    
+
+
+}
+
+#Next{
+    display: flex;
+    margin-top: 0.4rem;
+}
